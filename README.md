@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on more web development projects
 - 📫 How to reach me ...
 - 😄 Pronouns: She/Her/Ella/Ellas
-- ⚡ Fun fact: I have never left the country or state :)
+- ⚡ Fun fact: I'm bilingual and my family is from Honduras
 
 <!---
 knel2/knel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
