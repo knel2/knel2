@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Katherine
 - 👀 I’m interested in webdevelopment, UX design, UX reasearch and data analysis 
-- 🌱 I’m currently learning more about frontend and backend development
+- 🌱 I’m currently a Geography Data Science major and have a minor in Leadership and Informatics 
 - 💞️ I’m looking to collaborate on more web development projects
-- 📫 How to reach me ... through email
+- 📫 How to reach me through email
 - 😄 Pronouns: She/Her/Ella/Ellas
 - ⚡ Fun fact: I'm bilingual 
 
