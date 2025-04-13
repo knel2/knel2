@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Katherine
-- 👀 I’m interested in webdevelopment and UX design 
+- 👀 I’m interested in webdevelopment, UX design, UX reasearch and data analysis 
 - 🌱 I’m currently learning more about frontend and backend development
 - 💞️ I’m looking to collaborate on more web development projects
-- 📫 How to reach me ...
+- 📫 How to reach me ... through email
 - 😄 Pronouns: She/Her/Ella/Ellas
 - ⚡ Fun fact: I'm bilingual 
 
