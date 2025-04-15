@@ -2,11 +2,7 @@
 - 👀 I’m interested in webdevelopment, UX design, UX reasearch and data analysis 
 - 🌱 I’m currently a Geography Data Science major and have a minor in Leadership and Informatics 
 - 💞️ I’m looking to collaborate on more web development projects
-- 📫 How to reach me through email
+- 📫 How to reach me through email, [Linkdin](https://www.linkedin.com/in/katherine-escoto-licona/)
 - 😄 Pronouns: She/Her/Ella/Ellas
 - ⚡ Fun fact: I'm bilingual 
 
-<!---
-knel2/knel2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
